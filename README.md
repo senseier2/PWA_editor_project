@@ -20,6 +20,11 @@ Image of the application folders
 Image of the live application
 ![Image of the live application](Assets/PWA%20example.JPG)
 
+Here is a link the live application via Heroku: 
+https://sleepy-reef-94573.herokuapp.com/
+
+Here is a link to the github repository:
+https://github.com/senseier2/PWA_editor_project
 
 
 ## Installation
