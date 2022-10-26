@@ -1,7 +1,3 @@
-
-    
-    
-
 # Project Title: Progressive Web Application
 [![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
@@ -18,8 +14,13 @@
 * [Test](#test)
 * [Questions](#questions)
 
-## Description
-    Web application that loads and stores itself in the clients local storage.  Allow for use when disconnected from the web.  This is an example of one such PWA that acts as a text editor.
+Image of the application folders
+![Image of the Applicaton](Assets/PWA%20application.JPG)
+
+Image of the live application
+![Image of the live application](Assets/PWA%20example.JPG)
+
+
 
 ## Installation
     go to the provided URL to start the web application. It is live and will run with no prior setup.
